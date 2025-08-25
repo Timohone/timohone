@@ -24,8 +24,6 @@
 
   </samp>
 
-  <br> <br>
-
   <img src="https://komarev.com/ghpvc/?username=timohone" alt="profile views" />
 
 </p>
@@ -43,8 +41,6 @@
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" />
 
 </p>
-
-<br/>
 
 <h4 align="center"> 💻 Programming </h2>
 
@@ -74,8 +70,6 @@
 
 </p>
 
-<br/>
-
 <h4 align="center"> 🗄️ Databases </h2>
 
 <p align="center">
@@ -87,8 +81,6 @@
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 
 </p>
-
-<br/>
 
 <h4 align="center"> 🛠️ Tools & DevOps </h2>
 
@@ -128,4 +120,3 @@
 ---
 
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
-
