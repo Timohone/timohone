@@ -116,10 +116,12 @@
 
   <a target="_blank" href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/timo-haldi-322556197/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 
-  <a href="https://mediapuls.ch" target="_blank">
-  <img src="https://img.shields.io/badge/Website-mediapuls.ch-%230A84FF.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
+  <a href="mailto:timo@haldi.one"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
 
+  <a href="https://mediapuls.ch" target="_blank">
+  <img src="https://img.shields.io/badge/mediapuls.ch-%230A84FF.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
 
 </p>
 
