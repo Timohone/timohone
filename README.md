@@ -1,5 +1,3 @@
-<h1 align="center"> 👋 Hi, I'm Timo </h1>
-
 <div align="center">
   <img src="https://github.com/Timohone/timohone/blob/main/images/headerTimoHaldi.gif" alt="header"/>
 </div>
